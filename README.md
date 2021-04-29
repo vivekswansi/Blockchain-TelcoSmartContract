@@ -44,4 +44,29 @@ There is need for MNO (Mobile Network Operators) and Regulatory bodies to share 
 
 5/ Unified data availability for Regulatory bodies.
 
+**Telco Smart Contract**
+![image](https://user-images.githubusercontent.com/55034268/116568393-115b9c80-a926-11eb-8287-c1bce429ab36.png)
+
+![image](https://user-images.githubusercontent.com/55034268/116568421-1882aa80-a926-11eb-8d18-b77c469499cc.png)
+
+![image](https://user-images.githubusercontent.com/55034268/116568447-1d475e80-a926-11eb-8903-d3cce81ec7b5.png)
+
+![image](https://user-images.githubusercontent.com/55034268/116568474-246e6c80-a926-11eb-94b3-25b0b004b9d7.png)
+
+![image](https://user-images.githubusercontent.com/55034268/116568512-2afce400-a926-11eb-9621-d7299df13bdc.png)
+
+![image](https://user-images.githubusercontent.com/55034268/116568547-30f2c500-a926-11eb-9d48-02220fd47288.png)
+
+![image](https://user-images.githubusercontent.com/55034268/116568586-3819d300-a926-11eb-9d7c-b68fb5fba3f5.png)
+
+![image](https://user-images.githubusercontent.com/55034268/116568618-3f40e100-a926-11eb-8a53-7936e3eaaba9.png)
+
+
+
+**Technologies**
+
+![image](https://user-images.githubusercontent.com/55034268/116568167-e5401b80-a925-11eb-982e-51dcbd513659.png)
+
+
+
 
